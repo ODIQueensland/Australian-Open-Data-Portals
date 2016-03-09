@@ -1,1 +1,65 @@
-{"name":"australian-open-data-portals","title":"Australian Open Data Portals","description":"A list of Australia organisations that publish open data and the portal they publish on","homepage":"http://queensland.theodi.org/home/resources/data/","license":"https://creativecommons.org/licenses/by/4.0/","author":"ODI Queensland","resources":[{"name":"australian-open-data-portals","title":"Australian Open Data Portals","schema":{"fields":[{"name":"Organisation","title":"Organisation","description":"The name of an Australia  organisation that is publishing open data","type":"string","format":"default"},{"name":"URL","description":"The web address of the organisations open data portal.","type":"URL"},{"name":"Organisation type","type":"string","format":"default"},{"name":"Portal","description":"The technology platform that underlies the open data portal, if known.","type":"string","format":"default"},{"name":"Region","description":"The geographic coverage of the open data portal","type":"string","format":"default"},{"name":"Lat","title":"Latitude","type":"number","format":"default"},{"name":"Lon","title":"Longitude","type":"number","format":"default"}]},"url":"https://docs.google.com/spreadsheets/d/1GrTr1msgUJ_Nx1boZ4d2y2tFPWaWtTNfmCMm2C5NdcQ/export?format=csv","format":"CSV","mediatype":"text/csv","bytes":0}],"keywords":["Australia","Open Data","Portal"]}
+{
+	"name":"australian-open-data-portals",
+	"title":"Australian Open Data Portals",
+	"description":"A list of Australia organisations that publish open data and the portal they publish on",
+	"homepage":"http://queensland.theodi.org/home/resources/data/",
+	"license":"https://creativecommons.org/licenses/by/4.0/",
+	"author":"ODI Queensland",
+	"resources":[
+		{
+			"name":"australian-open-data-portals",
+			"title":"Australian Open Data Portals",
+			"schema":
+			{
+				"fields":[
+					{
+						"name":"Organisation",
+						"title":"Organisation",
+						"description":"The name of an Australia organisation that is publishing open data",
+						"type":"string",
+						"format":"default"
+						},
+					{
+						"name":"URL",
+						"description":"The web address of the organisations open data portal",
+						"type":"URL"
+						},
+					{
+						"name":"Organisation type",
+						"type":"string",
+						"format":"default"
+						},
+					{
+						"name":"Portal",
+						"description":"The technology platform that underlies the open data portal, if known",
+						"type":"string",
+						"format":"default"
+						},
+					{
+						"name":"Region",
+						"description":"The geographic coverage of the open data portal",
+						"type":"string",
+						"format":"default"
+						},
+					{
+						"name":"Lat",
+						"title":"Latitude",
+						"type":"number",
+						"format":"default"
+						},
+					{
+						"name":"Lon",
+						"title":"Longitude",
+						"type":"number",
+						"format":"default"
+						}
+				]
+			},
+			"url":"https://docs.google.com/spreadsheets/d/1GrTr1msgUJ_Nx1boZ4d2y2tFPWaWtTNfmCMm2C5NdcQ/export?format=csv",
+			"format":"CSV",
+			"mediatype":"text/csv",
+			"bytes":0
+		}
+	],
+	"keywords":["Australia","Open Data","Portal"]
+}
