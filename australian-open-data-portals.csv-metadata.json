@@ -1,6 +1,8 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "url": "australian-open-data-portals.csv"
+    "url": "australian-open-data-portals.csv",
+    "dc:title": "Australian Open Data Portals",
+    "dc:description": "A list of Australia organisations that publish open data and the portal they publish on",
     "tableSchema": {
         "columns": [{
             "titles": "Organisation"
