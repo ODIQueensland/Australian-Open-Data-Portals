@@ -3,9 +3,19 @@
     "url": "australian-open-data-portals.csv"
     "tableSchema": {
         "columns": [{
-            "titles": "tba"
+            "titles": "Organisation"
         },{
-            "titles": "tba"
+            "titles": "URL"
+        },{
+            "titles": "Organisation type"
+        },{
+            "titles": "Portal"
+        },{
+            "titles": "Region"
+        },{
+            "titles": "Lat"
+        },{
+            "titles": "Lon"
         }]
     }
 }
