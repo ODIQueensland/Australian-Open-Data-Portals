@@ -5,7 +5,8 @@
         "columns": [{
             "titles": "Organisation"
         },{
-            "titles": "URL"
+            "titles": "URL",
+            "datatype": "anyURI"
         },{
             "titles": "Organisation type"
         },{
