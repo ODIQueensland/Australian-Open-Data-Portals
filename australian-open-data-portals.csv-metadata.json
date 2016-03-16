@@ -1,4 +1,11 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "url": "australian-open-data-portals.csv"
+    "tableSchema": {
+        "columns": [{
+            "titles": "tba"
+        },{
+            "titles": "tba"
+        }]
+    }
 }
