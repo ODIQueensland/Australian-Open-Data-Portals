@@ -13,9 +13,19 @@
         },{
             "titles": "Region"
         },{
-            "titles": "Lat"
+            "titles": "Lat",
+            "datatype": {
+                "base": "number",
+                "minimum": "-90",
+                "maximum": "90"
+            }
         },{
-            "titles": "Lon"
+            "titles": "Lon",
+            "datatype": {
+                "base": "number",
+                "minimum": "-180",
+                "maximum": "180"
+            }
         }]
     }
 }
