@@ -1,0 +1,94 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "en"
+    }
+  ],
+  "dc:license": [
+    {
+      "@id": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "dc:modified": {
+    "@type": "xsd:date",
+    "@value": "2016-03-17"
+  },
+  "dc:publisher": {
+    "schema:name": "ODI Queensland",
+    "schema:url": {
+      "@id": "http://queensland.theodi.org"
+    }
+  },
+  "dc:title": "Australian Open Data Portals",
+  "dcat:keyword": [
+    "Open Data",
+    " Portal",
+    " Australia"
+  ],
+  "dialect": {
+    "commentPrefix": "#",
+    "delimiter": ",",
+    "doubleQuote": true,
+    "encoding": "ascii",
+    "header": true,
+    "headerRowCount": 1,
+    "lineTerminators": [
+      "\n"
+    ],
+    "quoteChar": "\"",
+    "skipBlankRows": false,
+    "skipColumns": 0,
+    "skipInitialSpace": false,
+    "skipRows": 0,
+    "trim": false
+  },
+  "tableSchema": {
+    "columns": [
+      {
+        "datatype": "string",
+        "dc:description": "The name of an Australia organisation that is publishing open data",
+        "name": "Organisation",
+        "required": true,
+        "titles": "Organisation"
+      },
+      {
+        "datatype": "anyURI",
+        "dc:description": "The web address of the organisations open data portal",
+        "name": "URL",
+        "required": true,
+        "titles": "URL"
+      },
+      {
+        "datatype": "string",
+        "dc:description": "A classification of the type of Organisation",
+        "name": "Organisation type",
+        "titles": "Organisation type"
+      },
+      {
+        "datatype": "string",
+        "dc:description": "The technology platform that underlies the open data portal, if known",
+        "name": "Portal",
+        "titles": "Portal"
+      },
+      {
+        "datatype": "string",
+        "dc:description": "The geographic coverage of the open data portal",
+        "name": "Region",
+        "titles": "Region"
+      },
+      {
+        "datatype": "double",
+        "name": "Lat",
+        "titles": "Latitude"
+      },
+      {
+        "datatype": "double",
+        "name": "Lon",
+        "titles": "Longitude"
+      }
+    ],
+    "primaryKey": []
+  },
+  "url": "https://docs.google.com/spreadsheets/d/1GrTr1msgUJ_Nx1boZ4d2y2tFPWaWtTNfmCMm2C5NdcQ/export?format=csv"
+}
