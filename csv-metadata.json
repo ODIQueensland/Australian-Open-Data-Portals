@@ -78,12 +78,20 @@
         "titles": "Region"
       },
       {
-        "datatype": "double",
+        "datatype": {
+                "base": "number",
+                "minimum": "-90",
+                "maximum": "90"
+            },
         "name": "Lat",
         "titles": "Latitude"
       },
       {
-        "datatype": "double",
+        "datatype": {
+                "base": "number",
+                "minimum": "-180",
+                "maximum": "180"
+            },
         "name": "Lon",
         "titles": "Longitude"
       }
