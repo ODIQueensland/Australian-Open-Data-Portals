@@ -66,12 +66,12 @@ The best way to contribute financially to this project is to [join the ODI Austr
 
 [contact]: https://theodi.org.au/contact/
 
-[gh_issues]: https://github.com/ODIQueensland/opendataportals/issues
-[gh_readme]: https://github.com/ODIQueensland/opendataportals/blob/master/README.md
-[gh_code_of_conduct]: https://github.com/ODIQueensland/opendataportals
-[gh_license]: https://github.com/ODIQueensland/opendataportals/blob/master/LICENSE
-[gh_contributors]: https://github.com/ODIQueensland/opendataportals/graphs/contributors
+[gh_issues]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/issues
+[gh_readme]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/README.md
+[gh_code_of_conduct]: https://github.com/ODIQueensland/Australian-Open-Data-Portals
+[gh_license]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/LICENSE
+[gh_contributors]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/graphs/contributors
 
-[dp_data]: https://github.com/ODIQueensland/opendataportals/blob/master/data_package/data/australian-open-data-portals.csv
-[dp_provenance]: https://github.com/ODIQueensland/opendataportals/blob/master/data_package/readme.md
-[dp_datapackage_json]: https://github.com/ODIQueensland/opendataportals/blob/master/data_package/datapackage.json
+[dp_data]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/data_package/data/australian-open-data-portals.csv
+[dp_provenance]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/data_package/readme.md
+[dp_datapackage_json]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/data_package/datapackage.json

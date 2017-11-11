@@ -4,6 +4,6 @@ Changes proposed in this pull request:
 
 -
 -
-- 
+-
 
-@Stephen-Gates @mattRedBox
+CC: @Stephen-Gates 

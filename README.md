@@ -1,14 +1,41 @@
-# opendataportals
+**Australian Open Data Portals**
 
-A collection of Australian open data portals published by ODI Queensland.
+A collection of Australian Open Data Portals created by the [ODI Australian Network](https://theodi.org.au) and [contributors][gh_contributors].
 
- - The data is presented using TablePress on the [ODI Queensland site](http://queensland.theodi.org/home/resources/data/).
- - A variation of the data with the policy link removed and location added is held in a Google Sheet.
- - A CSV file has been exported from the Google Sheet and is stored in this respository
- - A JSON Table Schema describes the structure of the data
- - A Data Package, that includes the JSON Table Schema, describes the CSV
- - A competing metadata scheme, [CSV on the Web](https://www.w3.org/standards/techs/csv#w3c_all) by W3C, also describes the CSV
+The [data][dp_data] is licensed under a [Creative Commons By Attribution licence](https://creativecommons.org/licenses/by/4.0/). The ODI Australian Network and contributors waive the requirement for attribution under this licence, for this data.
+
+## Frictionless Data
+
+The data is described using the [Frictionless Data](http://frictionlessdata.io) [Specification](http://frictionlessdata.io/specs/).
+
+The data is validated against the schema in the [data package][dp_datapackage_json] whenever it changes. [GoodTables.io](http://goodtables.io/) is used to perform the validation and generate a badge:
+[![goodtables.io](https://goodtables.io/badge/github/Stephen-Gates/australian-open-data-publishers.svg)](https://goodtables.io/github/Stephen-Gates/australian-open-data-publishers)
+
+The data can be viewed:
+
+- on https://theodi.org.au/data/
+- using [DataPackageViewer](http://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2FODIQueensland%2Fopendataportals%2Fmaster%2Fdata_package%2Fdatapackage.json)
+
+## CSVW
+
+ An alternate metadata scheme, [CSV on the Web](https://www.w3.org/standards/techs/csv#w3c_all) by W3C, also describes the CSV
   - csv-metadata.json is generated using the [CSV Metadata Editor](http://data.wu.ac.at/csvengine/csvm/editor) from Vienna University and then hand edited to add restrictions
   - australian-open-data-portals.csv-metadata.json is the original hand edited file before the above generator was discovered.
- 
-Suggestions, questions and pull requests are welcome either here or via the [ODI Queensland web site](http://queensland.theodi.org/home/contact-us/).
+
+  ## Contributions
+
+  Contributions are welcome - [learn how][gh_contributing]
+
+
+  [contact]: https://theodi.org.au/contact/
+
+  [gh_issues]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/issues
+  [gh_readme]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/README.md
+  [gh_code_of_conduct]: https://github.com/ODIQueensland/Australian-Open-Data-Portals
+  [gh_license]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/LICENSE
+  [gh_contributors]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/graphs/contributors
+  [gh_contributing]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/.github/CONTRIBUTING.md
+
+  [dp_data]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/data_package/data/australian-open-data-portals.csv
+  [dp_provenance]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/data_package/readme.md
+  [dp_datapackage_json]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/data_package/datapackage.json
