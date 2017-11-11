@@ -2,7 +2,7 @@
 	"name":"australian-open-data-portals",
 	"title":"Australian Open Data Portals",
 	"description":"A list of Australia open data portals",
-	"homepage":"https://theodi.org.au/data/",
+	"homepage":"https://github.com/ODIQueensland/Australian-Open-Data-Portals",
 	"license":"https://creativecommons.org/licenses/by/4.0/",
 	"author":"The ODI Australian Network and contributors",
 	"resources":[
@@ -35,8 +35,6 @@
 						},
 					{
 						"name":"Organisation type",
-						"title": " ",
-						"description": " ",
 						"type":"string",
 						"format":"default"
 						},
@@ -52,7 +50,6 @@
 						},
 					{
 						"name":"Region",
-						"title": " ",
 						"description":"The geographic coverage of the open data portal",
 						"type":"string",
 						"format":"default"
@@ -79,7 +76,6 @@
 						}
 				]
 			},
-			"url":"https://raw.githubusercontent.com/ODIQueensland/opendataportals/master/data_package/data/australian-open-data-portals.csv",
 			"format":"CSV",
 			"mediatype":"text/csv"
 		}
