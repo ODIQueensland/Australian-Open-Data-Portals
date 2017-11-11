@@ -1,53 +1,56 @@
-A short description of the dataset. The first sentence and the first paragraph should be written to provide short standalone descriptions. These descriptions may be used by data platforms and other software to provide a summary of the data.
+A list of Australian open data portals and publishers
 
 ## Data
 
 ### Why was the data created?
 
-- Reference any law or policy that requires you to collect the data.
+The data was created to help people discover Australian open data publishers and portals.
 
 ### When was the data collected?
 
-- on what day or over what duration was the data collected?
-- consider [adding a temporal extent](http://frictionlessdata.io/specs/data-package/#descriptor) to the tabular data resource
-- how often will the data be updated?
+Data is crowdsourced and is gradually collected over time.
 
 ### Where was the data collected?
 
-- Provide a well known name for the area the data was collected in
-- Provide a minimum bounding rectangle to describe the spatial extent if you have not implemented this using contraints
-- If location data is included in the data, what is the coordinate reference system
+The data is sourced from:
+
+- https://data.gov.au/organization where the organisation has published one or more open datasets
+- https://opencouncildata.org/australia/
+- contributions
 
 ### How was the data collected?
 
-- what events lead up to its collection?
-- Which instruments were used to collect it?
-- What does “null” mean?  Unknown, missing or not applicable? If not described in the schema
+The data is collected by visiting open data portals. `URL` and `organisation` fields come from the site.
+
+`portal` is determined by inspecting the web pages or source code.
+
+- The location `lat` and `lon` are manually determined. For:
+   - local portals the location is the organisation's office
+   - State, Territory or National organisations the location is the centroid of the geographic area
 
 ### Publication processes
-Provide information that may assist the reader in determining if the data is fit for their purpose. E.g.
 
-- what error corrections were performed
-- what data transformations were performed? E.g.
-  - data excluded because it's sensitive
-  - data aggregation, de-identification or anonymisation to protect privacy
-  - derived data - what formula was used?
+The data is updated when a pull request is accepted for the change in the github repository.
 
 ### Limitations
-- provide any known caveats or limitations in the data  
-- link to a data quality statement
+
+The data is updated infrequently.
 
 ## Support
-- who can people contact to ask questions and provide feedback about the data
-- are their any social networks that encourage and support the use of the data? E.g. Meet-ups, Twitter, Discussion forums.
+
+Questions and feedback about the data can be asked through [GitHub Issues](https://github.com/ODIQueensland/Australian-Open-Data-Portals/issues).
 
 ## Known usage
-Describe where the data is used in reports, analysis or visualisations.
+
+This data is used on:
+
+- https://theodi.org.au/data/
+- https://opendatainception.io/#?q=Australia
 
 ## License and Attribution
-License information should be included for each data table and the data package can be added using the table properties and data package properties commands. If this is insufficient to explain the licensing, then provide additional details here.
 
-Provide any preferred attribution statement.
+[Australian Open Data Portals](https://github.com/ODIQueensland/Australian-Open-Data-Portals) by [the ODI Australian Network](https://theodi.org.au) and [contributors](https://github.com/ODIQueensland/Australian-Open-Data-Portals/graphs/contributors) is licensed under a [Creative Commons By Attribution licence](https://creativecommons.org/licenses/by/4.0/).
 
-## Preparation
-Your data may be prepared by a community of volunteers. If relevant, provide instructions on how to run any preparation and processing scripts to generate the data.
+![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+The ODI Australian Network and contributors waive the requirement for attribution under this licence, for this data.
