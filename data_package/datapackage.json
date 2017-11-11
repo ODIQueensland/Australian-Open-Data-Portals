@@ -45,7 +45,10 @@
 						"title": "Portal Software",
 						"description":"The technology platform that underlies the open data portal, if known",
 						"type":"string",
-						"format":"default"
+						"format":"default",
+						"constraints": {
+							"enum": ["CKAN", "ArcGIS Open Data", "Socrata", "OpenDataSoft", "unknown"]
+							}
 						},
 					{
 						"name":"Region",

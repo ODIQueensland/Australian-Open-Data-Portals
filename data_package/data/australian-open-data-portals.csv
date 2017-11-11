@@ -1,56 +1,56 @@
-URL,Organisation,URL,Organisation type,Portal,Region,Lat,Lon
-https://data.qld.gov.au,Queensland Government,https://data.qld.gov.au,State Government,CKAN,Queensland,-22.486944,144.431667
-https://researchdatafinder.qut.edu.au,Queensland University of Technology,https://researchdatafinder.qut.edu.au,Research,unknown,Queensland,-27.476803,153.027819
-https://data.brisbane.qld.gov.au,Brisbane City Council,https://data.brisbane.qld.gov.au,Local Government,CKAN,Queensland,-27.468927,153.023499
-http://data.gov.au/organization/city-of-gold-coast,Gold Coast City Council,http://data.gov.au/organization/city-of-gold-coast,Local Government,CKAN,Queensland,-28.002076,153.416531
-http://data.logancity.opendata.arcgis.com/,Logan City Council,http://data.logancity.opendata.arcgis.com/,Local Government,ArcGIS Open Data,Queensland,-27.642996,153.103997
-http://data.gov.au/organization/logan-city-council,Logan City Council,http://data.gov.au/organization/logan-city-council,Local Government,CKAN,Queensland,-27.642996,153.103997
-http://data.moretonbay.qld.gov.au,Moreton Bay Regional Council,http://data.moretonbay.qld.gov.au,Local Government,ArcGIS Open Data,Queensland,-27.083513,152.951173
-http://data.gov.au/organization/noosa-shire-council,Noosa Council,http://data.gov.au/organization/noosa-shire-council,Local Government,CKAN,Queensland,-26.392297,153.040615
-https://data.sunshinecoast.qld.gov.au,Sunshine Coast Council,https://data.sunshinecoast.qld.gov.au,Local Government,Socrata,Queensland,-26.65481,153.093152
-https://www.ada.edu.au,Australian Data Archive,https://www.ada.edu.au,University Consortium,unknown,National,-35.286008,149.116913
-http://ands.org.au,Australian Nation Data Service,http://ands.org.au,Research,unknown,National,-35.285248,149.117894
-http://opendata.odiqueensland.org.au/,ODI Queensland,http://opendata.odiqueensland.org.au/,Not For Profit,ArcGIS Open Data,National,-27.46257,153.028367
-https://data.csiro.au/dap,CSIRO,https://data.csiro.au/dap,Australian Government,unknown,National,-23.033333,133.416667
-http://www.ala.org.au,The Atlas of Living Australia,http://www.ala.org.au,Australian Government,unknown,National,-23.033333,133.416667
-http://data.gov.au,Australian Government,http://data.gov.au,Australian Government,CKAN,National,-23.033333,133.416667
-http://www.aihw.gov.au/data/,Australian Institute of Health and Welfare,http://www.aihw.gov.au/data/,Australian Government,unknown,National,-23.033333,133.416667
-http://trove.nla.gov.au,National Library of Australia,http://trove.nla.gov.au,Australian Government,unknown,National,-23.033333,133.416667
-http://www.abs.gov.au/ausstats,Australian Bureau of Statistics,http://www.abs.gov.au/ausstats,Australian Government,unknown,National,-23.033333,133.416667
-https://data.aad.gov.au,Australian Antarctic Data Centre,https://data.aad.gov.au,Australian Government,unknown,Antarctic,-23.033333,133.416667
-https://www.data.act.gov.au,Australian Capital Territory Government,https://www.data.act.gov.au,Territory Government,Socrata,Australian Capital Territory,-35.283577,149.131952
-http://data.nsw.gov.au,New South Wales Government,http://data.nsw.gov.au,State Government,CKAN,New South Wales,-32.163333,147.016667
-http://data.gov.au/organization/mosmanmunicipalcouncil,Mosman Municipal Council,http://data.gov.au/organization/mosmanmunicipalcouncil,Local Government,CKAN,New South Wales,-33.825122,151.241387
-https://www.data.sa.gov.au,Government of South Australia,https://www.data.sa.gov.au,State Government,CKAN,South Australia,-30.058333,135.763333
-https://data.sa.edu.au/,eResearch South Australia,https://data.sa.edu.au/,Research,CKAN,South Australia,-30.058333,135.763333
-http://data.sa.gov.au/data/organization/local-government-association-of-sa,Local Government Association of South Australia,http://data.sa.gov.au/data/organization/local-government-association-of-sa,Local Government Representative Body,CKAN,South Australia,-30.058333,135.763333
-http://data.sa.gov.au/data/organization/adelaide-city-council,Adelaide City Council,http://data.sa.gov.au/data/organization/adelaide-city-council,Local Government,CKAN,South Australia,-34.926127,138.600111
-http://data.sa.gov.au/data/organization/city-of-burnside-local-council,City of Burnside,http://data.sa.gov.au/data/organization/city-of-burnside-local-council,Local Government,CKAN,South Australia,-34.938869,138.64303
-http://data.sa.gov.au/data/organization/city-of-onkaparinga,City of Onkaparinga,http://data.sa.gov.au/data/organization/city-of-onkaparinga,Local Government,CKAN,South Australia,-35.113778,138.545911
-http://data.sa.gov.au/data/organization/city-of-playford,City of Playford,http://data.sa.gov.au/data/organization/city-of-playford,Local Government,CKAN,South Australia,-34.718036,138.671408
-https://data.sa.gov.au/data/organization/city-of-salisbury-council,City of Salisbury Council,https://data.sa.gov.au/data/organization/city-of-salisbury-council,Local Government,CKAN,South Australia,-34.761062,138.644273
-http://data.sa.gov.au/data/organization/city-of-mitcham,City of Mitcham,http://data.sa.gov.au/data/organization/city-of-mitcham,Local Government,CKAN,South Australia,-34.976863,138.609762
-http://data.sa.gov.au/data/organization/port-adelaide-enfield-council,Port Adelaide Enfield Council,http://data.sa.gov.au/data/organization/port-adelaide-enfield-council,Local Government,CKAN,South Australia,-34.844228,138.504617
-http://data.gov.au/organization?q=tasmania,Tasmanian Government,http://data.gov.au/organization?q=tasmania,State Government,CKAN,Tasmania,-42.021389,146.593333
-http://data.gov.au/organization/city-of-hobart,City of Hobart,http://data.gov.au/organization/city-of-hobart,Local Government,CKAN,Tasmania,-42.882463,147.330895
-http://data.gov.au/organization/gcc,Glenorchy City Council,http://data.gov.au/organization/gcc,Local Government,CKAN,Tasmania,-42.833643,147.274946
-http://data.gov.au/organization/cityoflaunceston,Launceston City Council,http://data.gov.au/organization/cityoflaunceston,Local Government,CKAN,Tasmania,-41.435512,147.137185
-https://www.data.vic.gov.au,Victorian Government,https://www.data.vic.gov.au,State Government,CKAN,Victoria,-36.264167,144.281111
-http://data.melbournewater.opendata.arcgis.com,Melbourne Water,http://data.melbournewater.opendata.arcgis.com,State Government,ArcGIS Open Data,Victoria,-37.813914,144.946814
-http://vicroadsopendata.vicroadsmaps.opendata.arcgis.com,VicRoads,http://vicroadsopendata.vicroadsmaps.opendata.arcgis.com,State Government,ArcGIS Open Data,Victoria,-36.264167,144.281111
-http://data.gov.au/organization/alpine-shire-council,Alpine Shire Council,http://data.gov.au/organization/alpine-shire-council,Local Government,CKAN,Victoria,-36.730208,146.969102
-http://data.gov.au/organization/cardinia-shire-council,Cardinia Shire Council,http://data.gov.au/organization/cardinia-shire-council,Local Government,CKAN,Victoria,-38.065641,145.413327
-http://data.gov.au/organization/city-of-ballarat,City of Ballarat,http://data.gov.au/organization/city-of-ballarat,Local Government,CKAN,Victoria,-37.562196,143.856616
-https://data.gov.au/organization/city-of-casey,City of Casey,https://data.gov.au/organization/city-of-casey,Local Government,CKAN,Victoria,-38.019304,145.301176
-http://data.gov.au/organization/city-of-greater-geelong,City of Greater Geelong,http://data.gov.au/organization/city-of-greater-geelong,Local Government,CKAN,Victoria,-38.147167,144.357478
-http://data.gov.au/organization/corangamite-shire-council,Corangamite Shire Council,http://data.gov.au/organization/corangamite-shire-council,Local Government,CKAN,Victoria,-38.232532,143.146125
-http://data.gov.au/organization/glenelg-shire-council,Glenelg Shire Council,http://data.gov.au/organization/glenelg-shire-council,Local Government,CKAN,Victoria,-38.351881,141.607905
-http://data.gov.au/organization/golden-plains-shire-council,Golden Plains Shire Council,http://data.gov.au/organization/golden-plains-shire-council,Local Government,CKAN,Victoria,-38.050729,144.172998
-http://data.gov.au/organization/hobsons-bay-city-council,Hobsons Bay City Council,http://data.gov.au/organization/hobsons-bay-city-council,Local Government,CKAN,Victoria,-37.863957,144.830789
-http://data.gov.au/organization/manningham-city-council,Manningham City Council,http://data.gov.au/organization/manningham-city-council,Local Government,CKAN,Victoria,-37.786713,145.132316
-https://data.melbourne.vic.gov.au,Melbourne City Council,https://data.melbourne.vic.gov.au,Local Government,Socrata,Victoria,-37.815039,144.966649
-http://data.gov.au/organization/www-mitchellshirecouncil-vic-gov-au,Mitchell Shire Council,http://data.gov.au/organization/www-mitchellshirecouncil-vic-gov-au,Local Government,CKAN,Victoria,-37.202818,145.048895
-http://data.gov.au/organization/surf-coast-shire-council,Surf Coast Shire Council,http://data.gov.au/organization/surf-coast-shire-council,Local Government,CKAN,Victoria,-38.306593,144.321167
-http://data.gov.au/organization/wyndham-city-council,Wyndham City Council,http://data.gov.au/organization/wyndham-city-council,Local Government,CKAN,Victoria,-37.897427,144.670497
-https://data.gov.au/organization/southern-grampians-shire-council,Southern Grampians Shire Council,https://data.gov.au/organization/southern-grampians-shire-council,Local Government,CKAN,Victoria,-37.742271,142.024307
-https://www.data.wa.gov.au,Government of Western Australia,https://www.data.wa.gov.au,State Government,CKAN,Western Australia,-25.328056,122.298333
+URL,Organisation,Organisation type,Portal,Region,Lat,Lon
+https://data.qld.gov.au,Queensland Government,State Government,CKAN,Queensland,-22.486944,144.431667
+https://researchdatafinder.qut.edu.au,Queensland University of Technology,Research,unknown,Queensland,-27.476803,153.027819
+https://data.brisbane.qld.gov.au,Brisbane City Council,Local Government,CKAN,Queensland,-27.468927,153.023499
+http://data.gov.au/organization/city-of-gold-coast,Gold Coast City Council,Local Government,CKAN,Queensland,-28.002076,153.416531
+http://data.logancity.opendata.arcgis.com/,Logan City Council,Local Government,ArcGIS Open Data,Queensland,-27.642996,153.103997
+http://data.gov.au/organization/logan-city-council,Logan City Council,Local Government,CKAN,Queensland,-27.642996,153.103997
+http://data.moretonbay.qld.gov.au,Moreton Bay Regional Council,Local Government,ArcGIS Open Data,Queensland,-27.083513,152.951173
+http://data.gov.au/organization/noosa-shire-council,Noosa Council,Local Government,CKAN,Queensland,-26.392297,153.040615
+https://data.sunshinecoast.qld.gov.au,Sunshine Coast Council,Local Government,Socrata,Queensland,-26.65481,153.093152
+https://www.ada.edu.au,Australian Data Archive,University Consortium,unknown,National,-35.286008,149.116913
+http://ands.org.au,Australian Nation Data Service,Research,unknown,National,-35.285248,149.117894
+http://opendata.odiqueensland.org.au/,ODI Queensland,Not For Profit,ArcGIS Open Data,National,-27.46257,153.028367
+https://data.csiro.au/dap,CSIRO,Australian Government,unknown,National,-23.033333,133.416667
+http://www.ala.org.au,The Atlas of Living Australia,Australian Government,unknown,National,-23.033333,133.416667
+http://data.gov.au,Australian Government,Australian Government,CKAN,National,-23.033333,133.416667
+http://www.aihw.gov.au/data/,Australian Institute of Health and Welfare,Australian Government,unknown,National,-23.033333,133.416667
+http://trove.nla.gov.au,National Library of Australia,Australian Government,unknown,National,-23.033333,133.416667
+http://www.abs.gov.au/ausstats,Australian Bureau of Statistics,Australian Government,unknown,National,-23.033333,133.416667
+https://data.aad.gov.au,Australian Antarctic Data Centre,Australian Government,unknown,Antarctic,-23.033333,133.416667
+https://www.data.act.gov.au,Australian Capital Territory Government,Territory Government,Socrata,Australian Capital Territory,-35.283577,149.131952
+http://data.nsw.gov.au,New South Wales Government,State Government,CKAN,New South Wales,-32.163333,147.016667
+http://data.gov.au/organization/mosmanmunicipalcouncil,Mosman Municipal Council,Local Government,CKAN,New South Wales,-33.825122,151.241387
+https://www.data.sa.gov.au,Government of South Australia,State Government,CKAN,South Australia,-30.058333,135.763333
+https://data.sa.edu.au/,eResearch South Australia,Research,CKAN,South Australia,-30.058333,135.763333
+http://data.sa.gov.au/data/organization/local-government-association-of-sa,Local Government Association of South Australia,Local Government Representative Body,CKAN,South Australia,-30.058333,135.763333
+http://data.sa.gov.au/data/organization/adelaide-city-council,Adelaide City Council,Local Government,CKAN,South Australia,-34.926127,138.600111
+http://data.sa.gov.au/data/organization/city-of-burnside-local-council,City of Burnside,Local Government,CKAN,South Australia,-34.938869,138.64303
+http://data.sa.gov.au/data/organization/city-of-onkaparinga,City of Onkaparinga,Local Government,CKAN,South Australia,-35.113778,138.545911
+http://data.sa.gov.au/data/organization/city-of-playford,City of Playford,Local Government,CKAN,South Australia,-34.718036,138.671408
+https://data.sa.gov.au/data/organization/city-of-salisbury-council,City of Salisbury Council,Local Government,CKAN,South Australia,-34.761062,138.644273
+http://data.sa.gov.au/data/organization/city-of-mitcham,City of Mitcham,Local Government,CKAN,South Australia,-34.976863,138.609762
+http://data.sa.gov.au/data/organization/port-adelaide-enfield-council,Port Adelaide Enfield Council,Local Government,CKAN,South Australia,-34.844228,138.504617
+http://data.gov.au/organization?q=tasmania,Tasmanian Government,State Government,CKAN,Tasmania,-42.021389,146.593333
+http://data.gov.au/organization/city-of-hobart,City of Hobart,Local Government,CKAN,Tasmania,-42.882463,147.330895
+http://data.gov.au/organization/gcc,Glenorchy City Council,Local Government,CKAN,Tasmania,-42.833643,147.274946
+http://data.gov.au/organization/cityoflaunceston,Launceston City Council,Local Government,CKAN,Tasmania,-41.435512,147.137185
+https://www.data.vic.gov.au,Victorian Government,State Government,CKAN,Victoria,-36.264167,144.281111
+http://data.melbournewater.opendata.arcgis.com,Melbourne Water,State Government,ArcGIS Open Data,Victoria,-37.813914,144.946814
+http://vicroadsopendata.vicroadsmaps.opendata.arcgis.com,VicRoads,State Government,ArcGIS Open Data,Victoria,-36.264167,144.281111
+http://data.gov.au/organization/alpine-shire-council,Alpine Shire Council,Local Government,CKAN,Victoria,-36.730208,146.969102
+http://data.gov.au/organization/cardinia-shire-council,Cardinia Shire Council,Local Government,CKAN,Victoria,-38.065641,145.413327
+http://data.gov.au/organization/city-of-ballarat,City of Ballarat,Local Government,CKAN,Victoria,-37.562196,143.856616
+https://data.gov.au/organization/city-of-casey,City of Casey,Local Government,CKAN,Victoria,-38.019304,145.301176
+http://data.gov.au/organization/city-of-greater-geelong,City of Greater Geelong,Local Government,CKAN,Victoria,-38.147167,144.357478
+http://data.gov.au/organization/corangamite-shire-council,Corangamite Shire Council,Local Government,CKAN,Victoria,-38.232532,143.146125
+http://data.gov.au/organization/glenelg-shire-council,Glenelg Shire Council,Local Government,CKAN,Victoria,-38.351881,141.607905
+http://data.gov.au/organization/golden-plains-shire-council,Golden Plains Shire Council,Local Government,CKAN,Victoria,-38.050729,144.172998
+http://data.gov.au/organization/hobsons-bay-city-council,Hobsons Bay City Council,Local Government,CKAN,Victoria,-37.863957,144.830789
+http://data.gov.au/organization/manningham-city-council,Manningham City Council,Local Government,CKAN,Victoria,-37.786713,145.132316
+https://data.melbourne.vic.gov.au,Melbourne City Council,Local Government,Socrata,Victoria,-37.815039,144.966649
+http://data.gov.au/organization/www-mitchellshirecouncil-vic-gov-au,Mitchell Shire Council,Local Government,CKAN,Victoria,-37.202818,145.048895
+http://data.gov.au/organization/surf-coast-shire-council,Surf Coast Shire Council,Local Government,CKAN,Victoria,-38.306593,144.321167
+http://data.gov.au/organization/wyndham-city-council,Wyndham City Council,Local Government,CKAN,Victoria,-37.897427,144.670497
+https://data.gov.au/organization/southern-grampians-shire-council,Southern Grampians Shire Council,Local Government,CKAN,Victoria,-37.742271,142.024307
+https://www.data.wa.gov.au,Government of Western Australia,State Government,CKAN,Western Australia,-25.328056,122.298333
