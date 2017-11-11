@@ -6,8 +6,6 @@ The data and content in [Australian Open Data Portals][gh-repo] by [the ODI Aust
 
 The ODI Australian Network and contributors waive the requirement for attribution under this licence, for this data.
 
-
-
 ## The Data
 
 The list of Australian Open Data Portals is maintained in [australian-open-data-portals.csv][dp_data].
