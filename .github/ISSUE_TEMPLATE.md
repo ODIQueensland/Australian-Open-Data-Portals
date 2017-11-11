@@ -3,7 +3,7 @@
 > Provide as much detail as you can to help us help you.
 
 ### Data contribution or correction
-> Review the existing [data](https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/data_package/data/australian-open-data-portals.csv) and the [schema](https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/data_package/datapackage.json#L12) before you provide the following fields:
+> Review the existing [data](https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/datapackage/data/australian-open-data-portals.csv) and the [schema](https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/datapackage/datapackage.json#L12) before you provide the following fields:
 
 - URL:
 - Organisation:
