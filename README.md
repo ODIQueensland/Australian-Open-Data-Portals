@@ -1,5 +1,7 @@
 # Australian Open Data Portals
 
+A list of Australia open data publishers and portals.
+
 The data and content in [Australian Open Data Portals][gh-repo] by [the ODI Australian Network](https://theodi.org.au) and [contributors][gh_contributors] is licensed under a [Creative Commons By Attribution licence](https://creativecommons.org/licenses/by/4.0/).
 
 ![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
@@ -22,7 +24,7 @@ The data is described using the [Frictionless Data](http://frictionlessdata.io) 
 The [data][dp_data] is stored with its [metadata][dp_datapackage_json] and [provenance information][dp_provenance] in the [data_package directory][dp_dir].
 
 The data is validated against the schema in the [data package][dp_datapackage_json] whenever it changes. [GoodTables.io](http://goodtables.io/) is used to perform the validation and generate a badge:
-[![goodtables.io](https://goodtables.io/badge/github/Stephen-Gates/australian-open-data-publishers.svg)](https://goodtables.io/github/Stephen-Gates/australian-open-data-publishers)
+[![goodtables.io](https://goodtables.io/badge/github/Stephen-Gates/Australian-Open-Data-Portals.svg)](https://goodtables.io/github/Stephen-Gates/Australian-Open-Data-Portals)
 
 The data package can be viewed using [Data Package Viewer](http://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2FODIQueensland%2Fopendataportals%2Fmaster%2Fdata_package%2Fdatapackage.json).
 
