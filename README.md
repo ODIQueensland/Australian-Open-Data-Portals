@@ -21,7 +21,7 @@ It is described using two different specifications:
 
 The data is described using the [Frictionless Data](http://frictionlessdata.io) [Specification](http://frictionlessdata.io/specs/).
 
-The [data][dp_data] is stored with its [metadata][dp_datapackage_json] and [provenance information][dp_provenance] in the [datapackage directory][dp_dir].
+The [data][dp_data] is stored with its [metadata][dp_datapackage_json] and [provenance information][dp_provenance] in the [datapackage directory][dp_dir]. These files can be downloaded together in the [datapackage.zip][dp_zip] file
 
 The data is validated against the schema in the [data package][dp_datapackage_json] whenever it changes. [GoodTables.io](http://goodtables.io/) is used to perform the validation and generate a badge:
 [![goodtables.io](https://goodtables.io/badge/github/Stephen-Gates/Australian-Open-Data-Portals.svg)](https://goodtables.io/github/Stephen-Gates/Australian-Open-Data-Portals)
@@ -57,3 +57,4 @@ Contributions are welcome - [learn how][gh_contributing]
 [dp_data]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/datapackage/data/australian-open-data-portals.csv
 [dp_provenance]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/datapackage/readme.md
 [dp_datapackage_json]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/datapackage/datapackage.json
+[dp_zip]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/distribution/datapackage.zip
