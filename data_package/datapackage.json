@@ -1,88 +1,97 @@
 {
-	"name":"australian-open-data-portals",
-	"title":"Australian Open Data Portals",
-	"description":"A list of Australia open data portals",
-	"homepage":"https://theodi.org.au/data/",
-	"license":"https://creativecommons.org/licenses/by/4.0/",
-	"author":"The ODI Australian Network and contributors",
-	"resources":[
-		{
-			"name":"australian-open-data-portals",
-			"title":"Australian Open Data Portals",
-			"schema":
-			{
-				"fields":[
-					{
-						"name": "URL",
-						"title": "Web address",
-						"description": "The web address of the organisation's open data portal",
-						"type":"string",
-						"format": "uri",
-						"constraints": {
-							"required": true,
-							"unique": true
-							}
-						},
-					{
-						"name":"Organisation",
-						"title":"Organisation name",
-						"description":"The name of an Australia organisation that is publishing open data",
-						"type":"string",
-						"format":"default",
-						"constraints": {
-							"required": true
-							}
-						},
-					{
-						"name":"Organisation type",
-						"title": " ",
-						"description": " ",
-						"type":"string",
-						"format":"default"
-						},
-					{
-						"name":"Portal",
-						"title": "Portal Software",
-						"description":"The technology platform that underlies the open data portal, if known",
-						"type":"string",
-						"format":"default",
-						"constraints": {
-							"enum": ["CKAN", "ArcGIS Open Data", "Socrata", "OpenDataSoft", "unknown"]
-							}
-						},
-					{
-						"name":"Region",
-						"title": " ",
-						"description":"The geographic coverage of the open data portal",
-						"type":"string",
-						"format":"default"
-						},
-					{
-						"name":"Lat",
-						"title":"Latitude",
-						"type":"number",
-						"format":"default",
-						"constraints": {
-							"minimum": -90,
-							"maximum": 90
-							}
-						},
-					{
-						"name":"Lon",
-						"title":"Longitude",
-						"type":"number",
-						"format":"default",
-						"constraints": {
-							"minimum": -180,
-							"maximum": 180
-							}
-						}
-				]
-			},
-			"url":"https://raw.githubusercontent.com/ODIQueensland/opendataportals/master/data_package/data/australian-open-data-portals.csv",
-			"format":"CSV",
-			"mediatype":"text/csv"
-		}
-	],
-	"keywords":["Australia","Open Data","Portal"]
+  "name": "australian-open-data-portals",
+  "title": "Australian Open Data Portals",
+  "description": "A list of Australia open data portals",
+  "homepage": "https://github.com/ODIQueensland/Australian-Open-Data-Portals",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "author": "The ODI Australian Network and contributors",
+  "resources": [
+    {
+      "name": "australian-open-data-portals",
+      "title": "Australian Open Data Portals",
+      "schema": {
+        "fields": [
+          {
+            "name": "URL",
+            "title": "Web address",
+            "description": "The web address of the organisation's open data portal",
+            "type": "string",
+            "format": "uri",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "Organisation",
+            "title": "Organisation name",
+            "description": "The name of an Australia organisation that is publishing open data",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "Organisation type",
+            "title": " ",
+            "description": " ",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Portal",
+            "title": "Portal Software",
+            "description": "The technology platform that underlies the open data portal, if known",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "enum": [
+                "CKAN",
+                "ArcGIS Open Data",
+                "Socrata",
+                "OpenDataSoft",
+                "unknown"
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "title": " ",
+            "description": "The geographic coverage of the open data portal",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Lat",
+            "title": "Latitude",
+            "type": "number",
+            "format": "default",
+            "constraints": {
+              "minimum": -90,
+              "maximum": 90
+            }
+          },
+          {
+            "name": "Lon",
+            "title": "Longitude",
+            "type": "number",
+            "format": "default",
+            "constraints": {
+              "minimum": -180,
+              "maximum": 180
+            }
+          }
+        ]
+      },
+      "url": "https://raw.githubusercontent.com/ODIQueensland/opendataportals/master/data_package/data/australian-open-data-portals.csv",
+      "format": "CSV",
+      "mediatype": "text/csv"
+    }
+  ],
+  "keywords": [
+    "Australia",
+    "Open Data",
+    "Portal"
+  ]
 }
