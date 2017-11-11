@@ -9,6 +9,7 @@
 		{
 			"name":"australian-open-data-portals",
 			"title":"Australian Open Data Portals",
+			"path": "https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/datapackage/data/australian-open-data-portals.csv",
 			"schema":
 			{
 				"fields":[
