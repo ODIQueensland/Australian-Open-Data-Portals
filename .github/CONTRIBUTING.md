@@ -73,5 +73,5 @@ The best way to contribute financially to this project is to [join the ODI Austr
 [gh_contributors]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/graphs/contributors
 
 [dp_data]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/datapackage/data/australian-open-data-portals.csv
-[dp_provenance]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/datapackage/readme.md
+[dp_provenance]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/datapackage/README.md
 [dp_datapackage_json]: https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/datapackage/datapackage.json
