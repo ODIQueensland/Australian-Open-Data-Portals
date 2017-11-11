@@ -2,10 +2,16 @@
 > Fill out the relevant sections below. Delete sections as appropriate.
 > Provide as much detail as you can to help us help you.
 
-### Data contribution
+### Data contribution or correction
+> Review the existing [data](https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/data_package/data/australian-open-data-portals.csv) and the [schema](https://github.com/ODIQueensland/Australian-Open-Data-Portals/blob/master/data_package/datapackage.json#L12) before you provide the following fields:
 
-
-
+- URL:
+- Organisation:
+- Organisation type:
+- Portal:
+- Region:
+- Lat:
+- Lon:
 
 ### Desired Behaviour (for feature requests only)
 > Use this section for new feature requests. If you're reporting a problem, delete this section.
@@ -20,7 +26,7 @@
 ### Steps to Reproduce
 > When reporting a problem, provide a set of steps so others can reproduce the problem.
 
-1. Open Data Curator using the icon
+1.
 2.
 3.
 
