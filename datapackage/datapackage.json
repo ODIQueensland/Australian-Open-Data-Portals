@@ -2,7 +2,7 @@
 	"name":"australian-open-data-portals",
 	"title":"Australian Open Data Portals",
 	"description":"A list of Australia open data portals",
-	"homepage":"https://github.com/ODIQueensland/Australian-Open-Data-Portals",
+	"homepage":"https://github.com/ODIQueensland/Australian-Open-Data-Portals/#readme",
 	"license":"https://creativecommons.org/licenses/by/4.0/",
 	"author":"The ODI Australian Network and contributors",
 	"resources":[
@@ -77,7 +77,7 @@
 						}
 				]
 			},
-			"format":"CSV",
+			"format":"csv",
 			"mediatype":"text/csv"
 		}
 	],
